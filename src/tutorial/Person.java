@@ -1,5 +1,8 @@
 package tutorial;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Person {
 
     private String name;
@@ -65,6 +68,5 @@ public class Person {
     public void setGender(String gender) {
         this.gender = gender;
     }
-
 
 }

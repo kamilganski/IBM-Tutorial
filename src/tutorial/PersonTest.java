@@ -1,5 +1,7 @@
 package tutorial;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.logging.Logger;
 
 import org.junit.Test;
@@ -27,4 +29,6 @@ public class PersonTest {
         assertEquals("Brown", p.getEyeColor());
         assertEquals("MALE", p.getGender());
     }
+
+
 }

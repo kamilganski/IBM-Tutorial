@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7a700f3-9691-493c-8cc8-62f0d0f5638b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutorial/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutorial/PersonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorial/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/PersonTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,26 +35,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="721" />
-          <entry key="txt" value="21" />
+          <entry key="java" value="1114" />
+          <entry key="txt" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="721" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="JAVA" value="1114" />
+          <entry key="PLAIN_TEXT" value="51" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tutorial/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="715">
+              <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#500#501#0" expanded="true" />
                 <element signature="e#527#528#0" expanded="true" />
                 <element signature="e#567#568#0" expanded="true" />
@@ -87,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tutorial/PersonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,15 +112,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tutorial/Person.java" />
         <option value="$PROJECT_DIR$/src/Tutorial.java" />
         <option value="$PROJECT_DIR$/src/tutorial/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/tutorial/Person.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1108" />
-    <option name="width" value="819" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -163,7 +161,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542102292889" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542114584596" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -329,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542095632250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="After first class and methods">
+      <created>1542102329010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542102329010</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -338,7 +343,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1108" y="0" width="819" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -346,15 +351,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26350462" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21881838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32968238" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,7 +379,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit form InteliJJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit form InteliJJ" />
+    <MESSAGE value="After first class and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="After first class and methods" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -383,11 +389,22 @@
     <entry file="file://$PROJECT_DIR$/src/Tutorial.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tutorial/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/tutorial/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="715">
+          <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#500#501#0" expanded="true" />
             <element signature="e#527#528#0" expanded="true" />
             <element signature="e#567#568#0" expanded="true" />
@@ -412,16 +429,6 @@
             <element signature="e#1205#1206#0" expanded="true" />
             <element signature="e#1249#1250#0" expanded="true" />
             <element signature="e#1285#1286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tutorial/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
