@@ -1,7 +1,5 @@
 package tutorial;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.logging.Logger;
 
 import org.junit.Test;
@@ -12,7 +10,7 @@ public class PersonTest {
     @Test
     public void testPerson() {
 
-        Person p = new Person("Mike", 31, 178, 77, "Brown", "MALE");
+        Person p = new Person();
         Logger l = Logger.getLogger(Person.class.getName());
 
         l.info("Name: " + p.getName());
